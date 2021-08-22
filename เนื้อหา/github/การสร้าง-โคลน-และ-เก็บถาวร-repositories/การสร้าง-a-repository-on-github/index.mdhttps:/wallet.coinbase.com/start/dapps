@@ -1,11 +1,11 @@
----
-title: Creating a repository on GitHub
-intro: 'After you create your repository on {% data variables.product.product_name %}, you can customize its settings and content.'
-redirect_from:
+
+ชื่อเรื่อง: การสร้างที่เก็บบน GitHub
+บทแนะนำ: ' เฟิร์สสร้างสุดยอด {% data variables.product.product_name %}ปรับแต่งปรับแต่งและเขียงได้'
+เปลี่ยนเส้นทาง_จาก:
   - /articles/creating-a-repository-on-github
 versions:
-  fpt: '*'
-  ghes: '*'
+  fpt: '
+'
   ghae: '*'
 topics:
   - Repositories
@@ -18,11 +18,11 @@ children:
   - /about-code-owners
   - /about-repository-languages
   - /licensing-a-repository
-  - /about-citation-files
+ 
   - /creating-a-template-repository
   - /creating-an-issues-only-repository
   - /limits-for-viewing-content-and-diffs-in-a-repository
   - /duplicating-a-repository
-shortTitle: Create a repository
+shortTitle: สร้างอิน
 ---
 
